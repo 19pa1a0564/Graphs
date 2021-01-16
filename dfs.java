@@ -1,4 +1,3 @@
-# Graphs
 class Solution
 {
     public ArrayList<Integer> dfsOfGraph(int V, ArrayList<ArrayList<Integer>> adj)
